@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuhinangshu Bhattacharyya</h1>
 <h3 align="center">A programming enthusiast from India</h3>
 <img align="right" width=400 alt="coding" src="https://images.app.goo.gl/AFAJM9v8VkX91mnD8"
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhin04&label=Profile%20views&color=0e75b6&style=flat" alt="tuhin04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhin04&label=Profile%20views&color=0e75b6&style=flat" 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuhin04" alt="tuhin04" /></a> </p>
 
