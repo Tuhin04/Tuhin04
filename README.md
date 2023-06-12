@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pqft04@gmail.com**
 
-- ⚡ Fun fact **A Sense of humor worth knowing**
+- ⚡ Fun fact **Adventurous spirit, always seeking new experiences**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
