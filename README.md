@@ -19,7 +19,7 @@ A coding Enthusiast from India
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=of_the_track)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote Of The Moment
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=Tuhin04&icon=5&color=6)](https://visitcount.itsvg.in)
